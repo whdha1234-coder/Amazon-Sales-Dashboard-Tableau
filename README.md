@@ -14,5 +14,6 @@ This project provides deep insights into Amazon's sales data, featuring geograph
   * Interactive Maps & Geographic Visualizations.
   * Scatter Plots & Profit Sub-category Bar Charts.
   * Dynamic Filters (Order Date, Region, Country).
-  * Professional Dashboard UI & Layout Design.<img width="1656" height="838" alt="Screenshot_28" src="https://github.com/user-attachments/assets/9fbac596-890c-4a61-97f6-41e244e87ce2" />
+  * Professional Dashboard UI & Layout Design.<img width="1656" height="838" alt="Screenshot_28" src="https://github.com/user-attachments/assets/9fbac596-890c-<img width="1656" height="838" alt="Screenshot_28" src="https://github.com/user-attachments/assets/33ad1d59-8b89-4601-a95c-741a5216f275" />
+
 
